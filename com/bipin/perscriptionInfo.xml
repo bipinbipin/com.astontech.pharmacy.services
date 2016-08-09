@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<patientInfo>
+    <patient>
+        <systemId>1001</systemId>
+        <pharmacyNCPDPId>QWEMV8U2125</pharmacyNCPDPId>
+        <patientMRN>MRN1234671253</patientMRN>
+        <prescriptionNumber>3000000</prescriptionNumber>
+    </patient>
+    <patient>
+        <systemId>1002</systemId>
+        <pharmacyNCPDPId>Q98HVNKSRUIO</pharmacyNCPDPId>
+        <patientMRN>MRN1287696875</patientMRN>
+        <prescriptionNumber>3000001</prescriptionNumber>
+    </patient>
+    <patient>
+        <systemId>1003</systemId>
+        <pharmacyNCPDPId>ASFDKJN72345</pharmacyNCPDPId>
+        <patientMRN>MRN19846114</patientMRN>
+        <prescriptionNumber>3000002</prescriptionNumber>
+    </patient>
+</patientInfo>
